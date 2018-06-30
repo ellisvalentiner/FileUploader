@@ -1,1 +1,5 @@
-This is a summary.
+This is a Shiny web application to demonstrate file uploading and downloading.
+
+Use the file input buttons in the side bar to select the files you want to upload (e.g. the sample data). The sample data consists of two files with 10 rows containing the odd numbers 1 to 19 and 1 to 10 respectively.
+
+When both files have been uploaded a new file is created that contains the data from both files and a download button will appear in the side bar.
